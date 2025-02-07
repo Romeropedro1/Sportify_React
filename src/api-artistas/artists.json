@@ -1,0 +1,19 @@
+{
+  "postagens": [
+    {
+      "identidade": 1,
+      "título": "servidor-json",
+      "autor": "typicode"
+    }
+  ],
+  "comentários": [
+    {
+      "identidade": 1,
+      "corpo": "algum comentário",
+      "postId": 1
+    }
+  ],
+  "perfil": {
+    "nome": "typicode"
+  }
+}
