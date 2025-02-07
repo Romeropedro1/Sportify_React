@@ -1,7 +1,4 @@
 
-
-
-
 # Sportify-React
 
 **Sportify-React** é uma aplicação desenvolvida com **React.js** que simula uma interface do Spotify. O projeto foi criado para aprender os conceitos fundamentais do React, como componentes, props e estados, além de trabalhar com a estrutura de pastas e arquivos típicos de um projeto React.
